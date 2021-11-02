@@ -1,2 +1,2 @@
 # proteus-llc
-Proteus Advisors, LLC developer site
+Proteus Advisors, LLC source
